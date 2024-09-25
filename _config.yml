@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Md. Ali Akber"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "I am a quick learner, an honest individual, and I hope to achieve my goals through hard work. I have a thirst for knowledge and continuously seek to develop my skills to reach a more advanced level. My research interests lie in Machine Learning, with a special focus on Natural Language Processing (NLP), where I am eager to explore innovative solutions and contribute to advancements in the field."
+  location         : "Bangladesh"
+  employer         : "Daffodil International University"
+  uri              :  https://daffodilvarsity.edu.bd/
   email            : "none@example.org" 
 
   # Academic websites
